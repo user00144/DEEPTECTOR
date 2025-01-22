@@ -39,11 +39,6 @@ ___
 
 ## Implementation
 
-### 1. 
-
-### 2. 
-
-
 ### System Architecture
 - Used FastAPI(backend), Flask(AI inference) , HTML/JS(frontend) , Pytorch
 
