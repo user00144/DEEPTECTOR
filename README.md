@@ -49,4 +49,4 @@ ___
 
 ## Result & Outputs
 
-- **2nd Award** in 2024 Capstone Design and AI Hackerton Competition, Korean Assocation of Computer Education (Oct. 2024)
+- **Second Prize** in 2024 Capstone Design and AI Hackerton Competition, Korean Assocation of Computer Education (Oct. 2024)
